@@ -2,7 +2,7 @@
 
 ## About
 
-This project is a bower friendly version of [jquery.selection](https://github.com/madapaja/jquery.selection) plugin.
+This project is a bower friendly version of [jQuery.selection](https://github.com/madapaja/jquery.selection) plugin.
 
 
 # Installing
@@ -59,3 +59,5 @@ $('#button').click(function () {
     $('#input').focus();
 });
 ```
+
+To see more details and examples, please go to [jQuery.selection website](http://madapaja.github.io/jquery.selection/)
