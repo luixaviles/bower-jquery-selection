@@ -21,8 +21,7 @@
     "license": "MIT",
     "homepage": "https://github.com/luixaviles/bower-jquery-selection",
     "dependencies": {
-        "jquery": ">=1.7.0",
-        "jquery.selection": "1.0.1"
+        "jquery": ">=1.7.0"
     },
     "ignore": [
         "**/.*",
