@@ -1,0 +1,34 @@
+{
+    "name": "bower-jquery-selection",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "Koji Iwasaki",
+            "url": "http://blog.madapaja.net"
+        },
+        {
+            "name": "Luis Aviles",
+            "url": "https://github.com/luixaviles"
+        }
+    ],
+    "description": "Bower friendly version for jquery.selection plugin",
+    "main": "./src/jquery.selection.js",
+    "keywords": [
+        "selection",
+        "caret",
+        "jquery"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/luixaviles/bower-jquery-selection",
+    "dependencies": {
+        "jquery": ">=1.7.0",
+        "jquery.selection": "1.0.1"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}

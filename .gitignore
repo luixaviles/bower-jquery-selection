@@ -1,0 +1,5 @@
+.idea
+*~
+.DS_Store
+.settings
+bower_components
